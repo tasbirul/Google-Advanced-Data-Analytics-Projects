@@ -1,7 +1,7 @@
 
 # Foundations-of-Data-Science
 
-This is the first of seven courses in the Google Advanced Data Analytics Certificate.
+This is the first of seven courses in the Google Advanced Data Analytics Certificate. In this course, I have begun my learning journey by exploring the role of data professionals in the workplace. I have also learned about the project workflow PACE (Plan, Analyze, Construct, Execute) and how it can help me organize data projects.
 
 
 ## Lessons I have Learned
@@ -10,6 +10,8 @@ This is the first of seven courses in the Google Advanced Data Analytics Certifi
 - Investigated the impact data analysis can have on decision-making.
 - Explained how data professionals preserve data privacy and ethics .
 - Developed a project plan considering roles and responsibilities of team members.
+
+
 
 ## 🛠 Skills I Have Gained
 
