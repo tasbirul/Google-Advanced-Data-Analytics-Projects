@@ -26,16 +26,15 @@ This is the second of seven courses in the Google Advanced Data Analytics Certif
 ## Projects
 ![](https://lh3.googleusercontent.com/drive-viewer/AITFw-yhjJA93ZVIJtFKBJrMxF6XPP_7NnRWyGTP9HAXBX6q9SmEVquVAMuhsqwUMemcnNi1t8aMWuhd-4iLdqkiAOKZQKDBUw=s1600)
 - Week 1: Intro to Python! 
-    - [Demo Project](https://Demo.Project)
-    - [Demo Project](https://Demo.Project)
-    - [Demo Project](https://Demo.Project)
+    - [Lab 1: Python Syntax](https://github.com/tasbirul/Google-Advanced-Data-Analytics-Projects/blob/main/C2%20Get%20Started%20with%20Python/Week%201/Lab%201%20Python%20Syntax.ipynb)
+ 
 - Week 2: Functions and conditional statements
-    - [Demo Project](https://Demo.Project)
-    - [Demo Project](https://Demo.Project)
-    - [Demo Project](https://Demo.Project)
+    - [Lab 2: Functions](https://github.com/tasbirul/Google-Advanced-Data-Analytics-Projects/blob/main/C2%20Get%20Started%20with%20Python/Week%202/Lab%202%20Functions.ipynb)
+    - [Lab 3: Conditional Statements](https://github.com/tasbirul/Google-Advanced-Data-Analytics-Projects/blob/main/C2%20Get%20Started%20with%20Python/Week%202/Lab%203%20Conditional_Statements.ipynb)
+  
 - Week 3: Loops and strings
-    - [Demo Project](https://Demo.Project)
-    - [Demo Project](https://Demo.Project)
+    - [Lab 4: While loops](https://github.com/tasbirul/Google-Advanced-Data-Analytics-Projects/blob/main/C2%20Get%20Started%20with%20Python/Week%203/Lab%204%20While%20loops.ipynb)
+    - [Lab 5: For Loops](https://github.com/tasbirul/Google-Advanced-Data-Analytics-Projects/blob/main/C2%20Get%20Started%20with%20Python/Week%203/Lab%205%20For%20Loops.ipynb)
     - [Demo Project](https://Demo.Project)
 - Week 4: Data structures in Python
     - [Demo Project](https://Demo.Project)
